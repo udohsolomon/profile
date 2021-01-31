@@ -6,7 +6,7 @@ I am an experienced Cloud Security Specialist and Solutions Architect with over 
 - 🔭 I’m currently working on DevSecOps, Cloud Security, AppSec, Threat Intelliegence and Incident Response.
 - 🌱 I’m currently doing research on Cloud-Native Securiry
 - 💬 Ask me about Cyber Security, Digital Forensics & Incident Response
-- 📫 How to reach me: [Twitter Follow](https://img.shields.io/twitter/follow/laz_inc?label=Follow)
+- 📫 How to reach me: [@laz_inc](https://twitter.com/laz_inc)
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/laz_inc?label=Follow)
